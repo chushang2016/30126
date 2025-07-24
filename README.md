@@ -1,4 +1,4 @@
- # 30126_weixin126民大食堂用餐综合服务平台-微信端.mp4
+ # 30126_weixin民大食堂用餐综合服务平台-微信端.mp4
     
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=30126
+ * 项目源代码下载地址/#/home/goodDetail?goodId=30126
  
  
  * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/297%E5%A5%97-2-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BD%95%E5%83%8F/30126_weixin126%E6%B0%91%E5%A4%A7%E9%A3%9F%E5%A0%82%E7%94%A8%E9%A4%90%E7%BB%BC%E5%90%88%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0-%E5%BE%AE%E4%BF%A1%E7%AB%AF.mp4
